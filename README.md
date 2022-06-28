@@ -1,4 +1,4 @@
-# CSULB BUILD Hand Project
+# CSULB BUILD Hand Project (undergrad research work)
 contains:
 1) Grip Load Device
 2) Brace
