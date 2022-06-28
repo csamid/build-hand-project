@@ -29,3 +29,6 @@ Feel free to modify and improve the device :)
 
 # Brace
 A 2 piece 3d printed adjustable brace to explore the effects of wrist position on grip-load force coordination. It can be set at -30, 0, and 30 degrees at the wrist.
+
+# Knob Device
+The knob 
