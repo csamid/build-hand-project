@@ -5,7 +5,7 @@ contains:
 3) Knob Device
 4) Hapkit
 
-GRIP LOAD DEVICE
+# GRIP LOAD DEVICE
 
 
 
