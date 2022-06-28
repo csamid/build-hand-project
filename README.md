@@ -13,6 +13,11 @@ A planned user study will involve a:
 Dynamic Test
   - the user performs a lift-hold-lower task based on a metronome
   ![image](https://user-images.githubusercontent.com/85626643/176099929-5e86ee02-7bb1-499f-91a9-f4ee0fa400f1.png)
+  
+Static Ramp Test
+  - the user tracks a ramp force trajectory by pulling on the device
+  ![image](https://user-images.githubusercontent.com/85626643/176100437-8bb12e90-0106-477e-bd89-19ee52723d55.png)
+
 
 
 
