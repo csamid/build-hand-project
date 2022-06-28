@@ -17,6 +17,10 @@ Dynamic Test
 Static Ramp Test
   - the user tracks a ramp force trajectory by pulling on the device
   ![image](https://user-images.githubusercontent.com/85626643/176100437-8bb12e90-0106-477e-bd89-19ee52723d55.png)
+  
+Static Sine Test
+  - user performs a pull and push task based on a metronome and tries to reach min and max force as a beat occurs
+  ![image](https://user-images.githubusercontent.com/85626643/176100964-ee5dc6c3-88e7-4444-a6d7-b5ff76effa38.png)
 
 
 
