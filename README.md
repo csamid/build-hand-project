@@ -34,4 +34,4 @@ A 2 piece 3d printed adjustable brace to explore the effects of wrist position o
 The knob device (KD) is centered arduino uno as it sends data to a graphical user interface (GUI) and controls a haptic interface. The goal of this device is to assess the coordination b/w grasping force and turning torque and also provide rehabilitative training. The GUI and data acquisition is on LabVIEW. The haptic interface inculdes a HEDS encoder, maxon A-max motor, force sensing resistors (FSR), and a torque sensor. The code from this device has not been updated since mid 2021 so it can use some improvements. See the GLD LabVIEW code for improving the LabVIEW code. Improvements can be made on the arduino code to add/change the haptic enviroment (ie Spring and Damper). Hardware/Sensor improvements are also welcome, since FSR's are not really reliable quantitatively. 
 
 # Hapkit
-Some design changes were made to the open-source Hapkit 10.01.14 from Stanford to fit with available hardware at the RISE Lab @csulb  
+Some design changes were made to the open-source Hapkit 10.01.14 from Stanford to fit with available hardware at the RISE Lab @CSULB 
