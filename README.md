@@ -6,7 +6,7 @@ contains:
 4) Hapkit
 
 # GRIP LOAD DEVICE
-
+The grip-load device (GLD) runs on a arduino uno which reads data from 3 sensors. A MPU6050 for acceleration which is used to obtain load force during the dynamic test. A LCFD-50 load cell to acquire grip force. Finally, a LSB302 Futek load cell to get load force during the static tests. 
 
 
 
