@@ -26,3 +26,6 @@ Futek Load Cell Wire Connection:
 ![IMG-0377](https://user-images.githubusercontent.com/85626643/176093601-97614e21-ff5e-4d98-8d21-9f3b018974cd.jpg)
 
 Feel free to modify and improve the device :)
+
+# Brace
+A 2 piece 3d printed adjustable brace to explore the effects of wrist position on grip-load force coordination. It can be set at -30, 0, and 30 degrees at the wrist.
