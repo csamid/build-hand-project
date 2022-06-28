@@ -22,5 +22,5 @@ Static Sine Test
   - user performs a pull and push task based on a metronome and tries to reach min and max force as a beat occurs
   ![image](https://user-images.githubusercontent.com/85626643/176100964-ee5dc6c3-88e7-4444-a6d7-b5ff76effa38.png)
 # 
-
+Futek Load Cell Wire Connection:
 ![IMG-0377](https://user-images.githubusercontent.com/85626643/176093601-97614e21-ff5e-4d98-8d21-9f3b018974cd.jpg)
