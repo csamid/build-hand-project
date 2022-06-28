@@ -31,4 +31,4 @@ Feel free to modify and improve the device :)
 A 2 piece 3d printed adjustable brace to explore the effects of wrist position on grip-load force coordination. It can be set at -30, 0, and 30 degrees at the wrist.
 
 # Knob Device
-The knob 
+The knob device (KD) is centered arduino uno as it sends data to a graphical user interface (GUI) and controls a haptic interface. The goal of this device is to assess the coordination b/w grasping force and turning torque and also provide rehabilitative training. The GUI and data acquisition is on LabVIEW. The haptic interface inculdes a HEDS encoder, maxon A-max motor, force sensing resistors (FSR), and a torque sensor. The code from this device has not been updated since mid 2021 so it can use some improvements. See the GLD LabVIEW code for improving the LabVIEW code. Improvements can be made on the arduino code to add/change the haptic enviroment (ie Spring and Damper). Hardware/Sensor improvements are also welcome, since the FSR's we used are not really reliable quantitatively. 
