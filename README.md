@@ -24,3 +24,5 @@ Static Sine Test
 # 
 Futek Load Cell Wire Connection:
 ![IMG-0377](https://user-images.githubusercontent.com/85626643/176093601-97614e21-ff5e-4d98-8d21-9f3b018974cd.jpg)
+
+Feel free to modify and improve the device :)
