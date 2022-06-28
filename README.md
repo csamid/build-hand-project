@@ -8,6 +8,7 @@ this repo contains:
 # GRIP LOAD DEVICE
 The grip-load device (GLD) runs on a arduino uno which reads data from 3 sensors. A MPU6050 for acceleration which is used to obtain load force during the dynamic test. A LCFD-50 load cell to acquire grip force. Finally, a LSB302 Futek load cell to get load force during the static tests. The purpose of this device is to assess the differences in grip force to load force coordination between health and hand impaired individuals. We also hope this device can be used for rehabilitative training of individuals with hand impairment. This repo contains the code, documentation, and parts for this device (Last Update: 6/27/2022 from csamid). The data collection is done on LabVIEW.
 Videos explaining how to download code, how arduino & LabVIEW code works, and how run the code can be found here: https://www.youtube.com/playlist?list=PLc3eWZpUKAzyQBUwwpyzYRb3LxGoiJ5aO 
+
 A planned user study will involve a:
 
 Dynamic Test
