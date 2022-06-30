@@ -1,4 +1,4 @@
-# CSULB BUILD Hand Project (undergrad research work)
+# CSULB BUILD Hand Project
 this repo contains:
 1) Grip Load Device
 2) Brace
